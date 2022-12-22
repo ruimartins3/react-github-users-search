@@ -19,9 +19,9 @@
 
     
   ![18fabdec7addc95e298fac6427c0671e](https://user-images.githubusercontent.com/91401714/209155969-ddc4eabb-6036-41ca-844d-9410941d8c6a.png)
- 
+  ---
     
-   
+ <h3 align="center">Search any user and see his stats<h3>  
  ![fe2493cbd5b4fee28accf2a4274e0d94](https://user-images.githubusercontent.com/91401714/209156630-e0bd18ba-70d8-466b-b947-2b0c3eba6a28.png)
 
   
