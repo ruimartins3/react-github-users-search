@@ -1,5 +1,5 @@
 # react-github-users-search
-<h2>A Github user search app made with React!</h2>
+<h2 align="center">A Github user search app made with React!</h2>
 
 
 
