@@ -1,4 +1,4 @@
-<h1 align="center">A Github user search app made with React!</h1>
+<h2 align="center">A Github user search app made with React!</h2>
 
 
 
